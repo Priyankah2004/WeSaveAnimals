@@ -19,12 +19,12 @@ We Save Animals is a responsive, user-friendly website designed for an NGO dedic
 ## Screenshots
 
 ### Dashboard
-![Dashboard Image](images/Dashboard/your-dashboard-image.jpg)
+![Dashboard Image](images/Dashboard.jpg)
 
 ### Services
-![Services Image](images/Services/your-services-image.jpg)
+![Services Image](images/Services.jpg)
 
-*(Replace `your-dashboard-image.jpg` and `your-services-image.jpg` with your actual image file names.)*
+
 
 ## Project Structure
 index.html
